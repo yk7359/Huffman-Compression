@@ -1,3 +1,7 @@
+Data below is some test for the effectiveness of compression
+File:
+original file bit, compressed file bit, percentage of compression 
+
 
 Calgary huffMark
 
