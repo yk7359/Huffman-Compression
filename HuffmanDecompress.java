@@ -1,21 +1,4 @@
 import java.io.IOException;
-/*  Student information for assignment:
- *
- *  On our honor, Yuki Kamayama and Bohan Zhang, this programming assignment is our own work
- *  and we have not provided this code to any other student.
- *
- *  Number of slip days used: 1
- *
- *  Student 1 (Student whose turnin account is being used)
- *  UTEID: yk7359
- *  email address: yk7359@utexas.edu
- *  Grader name: Aish
- *
- *  Student 2 
- *  UTEID: bz3824
- *  email address: bohanz2009@gmail.com
- *
- */
 
 public class HuffmanDecompress implements IHuffConstants {
 
